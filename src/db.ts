@@ -6,7 +6,7 @@ export let students = [
     },
     {
         id: "1c2504f2-b656-11eb-8529-0242ac130003",
-        name: "Micheal Bryant",
+        name: "Micheal Bryant", 
         teacher: "9c9324e8-b656-11eb-8529-0242ac130003"
     },
     {
